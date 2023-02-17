@@ -50,8 +50,6 @@ def on_change_selector(state):
 
 
 page_examples = Markdown("""
-Cette page est générée avec Taipy. Voir taipy.io pour plus d'informations
-
 # Exemple d'application de segmentation sémantique
 
 Cette démo utilise un modèle Unet (avec encodeur VGG16) pour de la segmentation sémantique
